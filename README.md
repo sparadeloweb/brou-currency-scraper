@@ -132,5 +132,3 @@ Fly.io es una plataforma que te permite desplegar aplicaciones de manera sencill
 ## 🐞 Solución de Problemas
 
 - **Error `Out of Memory` en Fly.io**: Aumentá la memoria de tu instancia usando `flyctl scale memory <cantidad>`.
-- **Error de `WebDriverException` o problemas con Selenium**: Asegurate de que todos los binarios (como `geckodriver`) estén correctamente incluidos y configurados en el entorno de Fly.io.
-
