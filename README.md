@@ -1,6 +1,6 @@
 # 🏦 Currency Scraper API
 
-Sorpresivamente, no existe una API para obtener la cotización Dólar -> Peso Uruguayo. Así que si por alguna razón lo necesitas, probá este script hecho en `Flask` y `Selenium`.
+Sorpresivamente, no existe una API para obtener la cotización Dólar (u otras divisas) -> Peso Uruguayo. Así que si por alguna razón lo necesitas, probá este script hecho en `Flask` y `Selenium`.
 
 ## 🚀 Instalación
 
