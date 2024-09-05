@@ -26,6 +26,6 @@ primary_region = 'gig'
 
 [[vm]]
   size = 'shared-cpu-1x'
-  memory = '1gb'
+  memory = '512mb'
   cpu_kind = 'shared'
   cpus = 1
